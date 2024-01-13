@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Win on Kyle Liao</title>
+    <link>/blog/win/</link>
+    <description>Recent content in Win on Kyle Liao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2022, Kyle Liao.</copyright>
+    <lastBuildDate>Mon, 14 Nov 2022 18:55:33 -0500</lastBuildDate><atom:link href="/blog/win/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What&#39;s Next for Kyle Liao</title>
+      <link>/whats-next-for-kyle-liao/</link>
+      <pubDate>Mon, 14 Nov 2022 18:55:33 -0500</pubDate>
+      
+      <guid>/whats-next-for-kyle-liao/</guid>
+      <description>I&amp;rsquo;m writing this 10 days after winning a hackathon. It&amp;rsquo;s surreal. As Sahib said, it was like a 48 hour fever dream. It all started from just one day. The right place the right time kind of situation. I was checking hackathons.hackclub.com to find hackathons. Nothing new. I went to check MLH.io hackathons and found it. HackPHS, in Princeton NJ for High School students. I clicked on the website to make sure it was a date and time I could attend.</description>
+    </item>
+    
+    <item>
+      <title>Project Diani at Code Overflow22(BIG W)</title>
+      <link>/project-diani-at-code-overflow22big-w/</link>
+      <pubDate>Tue, 19 Apr 2022 19:00:13 -0500</pubDate>
+      
+      <guid>/project-diani-at-code-overflow22big-w/</guid>
+      <description>Project Diani was a 24 hour hackathon project based off of Arduino, which was written in C++ where my main job was creating the documentation and the website for it. The team was composed off our lead C++ dev, Sahib, along with Batuhuan as C++ assist, and Dorian our overall designer, and me as our front end.
+9:00 AM We arrive at 9 AM and enter. The opening talk starts at 10.</description>
+    </item>
+    
+  </channel>
+</rss>

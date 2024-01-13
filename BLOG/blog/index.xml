@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Kyle Liao</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Kyle Liao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2022, Kyle Liao.</copyright>
+    <lastBuildDate>Thu, 08 Jun 2023 17:50:53 -0400</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summer of 2023</title>
+      <link>/summer-of-2023/</link>
+      <pubDate>Thu, 08 Jun 2023 17:50:53 -0400</pubDate>
+      
+      <guid>/summer-of-2023/</guid>
+      <description>The Summer Story of 2023 It&amp;rsquo;s been one year since the last summer post. I didn&amp;rsquo;t even realize. It&amp;rsquo;s given me great perspective to see how far I&amp;rsquo;ve gotten in a year. It most certaintly calms my nerves, my worries, and my thoughts. I&amp;rsquo;ve gotten to go to plenty more in-person hackathons since. I&amp;rsquo;ve made Edison Hack Club a reality, and I&amp;rsquo;ve taken on a new sizeable project, TeenHacksLI as a director of the programming committee.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Next for Kyle Liao</title>
+      <link>/whats-next-for-kyle-liao/</link>
+      <pubDate>Mon, 14 Nov 2022 18:55:33 -0500</pubDate>
+      
+      <guid>/whats-next-for-kyle-liao/</guid>
+      <description>I&amp;rsquo;m writing this 10 days after winning a hackathon. It&amp;rsquo;s surreal. As Sahib said, it was like a 48 hour fever dream. It all started from just one day. The right place the right time kind of situation. I was checking hackathons.hackclub.com to find hackathons. Nothing new. I went to check MLH.io hackathons and found it. HackPHS, in Princeton NJ for High School students. I clicked on the website to make sure it was a date and time I could attend.</description>
+    </item>
+    
+    <item>
+      <title>Summer-2022</title>
+      <link>/summer-2022/</link>
+      <pubDate>Sat, 20 Aug 2022 18:00:33 -0400</pubDate>
+      
+      <guid>/summer-2022/</guid>
+      <description>The Summer Story of Kyle Liao in 2022 as of August 20th, 2022. As I write this I am currently ill with some sort of viral illness. Probably a cold or the flu, since two days of at home covid tests kits say I most certainly do not have covid.
+Some might remark my summer as eventful. I got a 5 on the AP world exam, a 1490 on the SAT, I got my first job, I&amp;rsquo;m starting a fiscally sponsored organization; all of those things are crazy and I wouldn&amp;rsquo;t have seen myself doing them 6 months ago.</description>
+    </item>
+    
+    <item>
+      <title>Project Diani at Code Overflow22(BIG W)</title>
+      <link>/project-diani-at-code-overflow22big-w/</link>
+      <pubDate>Tue, 19 Apr 2022 19:00:13 -0500</pubDate>
+      
+      <guid>/project-diani-at-code-overflow22big-w/</guid>
+      <description>Project Diani was a 24 hour hackathon project based off of Arduino, which was written in C++ where my main job was creating the documentation and the website for it. The team was composed off our lead C++ dev, Sahib, along with Batuhuan as C++ assist, and Dorian our overall designer, and me as our front end.
+9:00 AM We arrive at 9 AM and enter. The opening talk starts at 10.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Kyle&#39;s Website</title>
+      <link>/welcome-to-kyles-website/</link>
+      <pubDate>Sat, 26 Mar 2022 19:00:13 -0500</pubDate>
+      
+      <guid>/welcome-to-kyles-website/</guid>
+      <description>Long Time Coming I&amp;rsquo;m proud of the fact that I have enough work to put on a website now. It&amp;rsquo;s nice to have a website, especially one that runs. There are still things to be worked out. For one, I am writing this in notepad. However, the website works right. Markdown doesn&amp;rsquo;t care where you write it.
+This site will be a catalogue of projects: hackathon, side, school, etc. Anything that I think is worth putting here will go here.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>/first-post/</link>
+      <pubDate>Thu, 10 Mar 2022 19:00:13 -0500</pubDate>
+      
+      <guid>/first-post/</guid>
+      <description>#Welcome
+Hopefully this works. Next challenge is getting it onto gitlab. Soemtimes you need to just sit down and watch the youtube guide. Times like this is when I wish future me could help me out. Simplicity is in hindsight. Future site is knowing there are gonna be screw ups. I accidently deleted the folder with hugo on it. Had to restore it lol. Let&amp;rsquo;s hope gitlab goes well. haven&amp;rsquo;t used it before.</description>
+    </item>
+    
+  </channel>
+</rss>

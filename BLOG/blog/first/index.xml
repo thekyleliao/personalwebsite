@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>first on Kyle Liao</title>
+    <link>/blog/first/</link>
+    <description>Recent content in first on Kyle Liao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2022, Kyle Liao.</copyright>
+    <lastBuildDate>Tue, 19 Apr 2022 19:00:13 -0500</lastBuildDate><atom:link href="/blog/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Diani at Code Overflow22(BIG W)</title>
+      <link>/project-diani-at-code-overflow22big-w/</link>
+      <pubDate>Tue, 19 Apr 2022 19:00:13 -0500</pubDate>
+      
+      <guid>/project-diani-at-code-overflow22big-w/</guid>
+      <description>Project Diani was a 24 hour hackathon project based off of Arduino, which was written in C++ where my main job was creating the documentation and the website for it. The team was composed off our lead C++ dev, Sahib, along with Batuhuan as C++ assist, and Dorian our overall designer, and me as our front end.
+9:00 AM We arrive at 9 AM and enter. The opening talk starts at 10.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Kyle&#39;s Website</title>
+      <link>/welcome-to-kyles-website/</link>
+      <pubDate>Sat, 26 Mar 2022 19:00:13 -0500</pubDate>
+      
+      <guid>/welcome-to-kyles-website/</guid>
+      <description>Long Time Coming I&amp;rsquo;m proud of the fact that I have enough work to put on a website now. It&amp;rsquo;s nice to have a website, especially one that runs. There are still things to be worked out. For one, I am writing this in notepad. However, the website works right. Markdown doesn&amp;rsquo;t care where you write it.
+This site will be a catalogue of projects: hackathon, side, school, etc. Anything that I think is worth putting here will go here.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>/first-post/</link>
+      <pubDate>Thu, 10 Mar 2022 19:00:13 -0500</pubDate>
+      
+      <guid>/first-post/</guid>
+      <description>#Welcome
+Hopefully this works. Next challenge is getting it onto gitlab. Soemtimes you need to just sit down and watch the youtube guide. Times like this is when I wish future me could help me out. Simplicity is in hindsight. Future site is knowing there are gonna be screw ups. I accidently deleted the folder with hugo on it. Had to restore it lol. Let&amp;rsquo;s hope gitlab goes well. haven&amp;rsquo;t used it before.</description>
+    </item>
+    
+  </channel>
+</rss>

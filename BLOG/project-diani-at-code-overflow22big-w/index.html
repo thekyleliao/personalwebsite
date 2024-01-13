@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/images/favicon.png" />
+<title>Project Diani at Code Overflow22(BIG W) | Kyle Liao</title>
+<meta name="title" content="Project Diani at Code Overflow22(BIG W)" />
+<meta name="description" content="Project Diani was a 24 hour hackathon project based off of Arduino, which was written in C&#43;&#43; where my main job was creating the documentation and the website for it. The team was composed off our lead C&#43;&#43; dev, Sahib, along with Batuhuan as C&#43;&#43; assist, and Dorian our overall designer, and me as our front end.
+9:00 AM We arrive at 9 AM and enter. The opening talk starts at 10." />
+<meta name="keywords" content="blog,first,Win,Hackathon," />
+
+
+<meta property="og:title" content="Project Diani at Code Overflow22(BIG W)" />
+<meta property="og:description" content="Project Diani was a 24 hour hackathon project based off of Arduino, which was written in C&#43;&#43; where my main job was creating the documentation and the website for it. The team was composed off our lead C&#43;&#43; dev, Sahib, along with Batuhuan as C&#43;&#43; assist, and Dorian our overall designer, and me as our front end.
+9:00 AM We arrive at 9 AM and enter. The opening talk starts at 10." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/project-diani-at-code-overflow22big-w/" /><meta property="og:image" content="/images/share.png"/><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2022-04-19T19:00:13-05:00" />
+<meta property="article:modified_time" content="2022-04-19T19:00:13-05:00" /><meta property="og:site_name" content="Kyle Liao Blog" />
+
+
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="/images/share.png"/>
+
+<meta name="twitter:title" content="Project Diani at Code Overflow22(BIG W)"/>
+<meta name="twitter:description" content="Project Diani was a 24 hour hackathon project based off of Arduino, which was written in C&#43;&#43; where my main job was creating the documentation and the website for it. The team was composed off our lead C&#43;&#43; dev, Sahib, along with Batuhuan as C&#43;&#43; assist, and Dorian our overall designer, and me as our front end.
+9:00 AM We arrive at 9 AM and enter. The opening talk starts at 10."/>
+
+
+
+<meta itemprop="name" content="Project Diani at Code Overflow22(BIG W)">
+<meta itemprop="description" content="Project Diani was a 24 hour hackathon project based off of Arduino, which was written in C&#43;&#43; where my main job was creating the documentation and the website for it. The team was composed off our lead C&#43;&#43; dev, Sahib, along with Batuhuan as C&#43;&#43; assist, and Dorian our overall designer, and me as our front end.
+9:00 AM We arrive at 9 AM and enter. The opening talk starts at 10."><meta itemprop="datePublished" content="2022-04-19T19:00:13-05:00" />
+<meta itemprop="dateModified" content="2022-04-19T19:00:13-05:00" />
+<meta itemprop="wordCount" content="493"><meta itemprop="image" content="/images/share.png"/>
+<meta itemprop="keywords" content="blog,first,Win,Hackathon," />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: Verdana, sans-serif;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: #444;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 10px;
+  }
+
+  textarea {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  input {
+    font-size: 16px;
+  }
+
+  content {
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #8b6fcb;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #ddd;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #8cc2dd;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+</style>
+
+</head>
+
+<body>
+  <header><a href="/" class="title">
+  <h2>Kyle Liao</h2>
+</a>
+<nav><a href="/">Home</a>
+
+<a href="/about/">About</a>
+
+<a href="/projects/">Projects</a>
+
+
+<a href="/blog">Blog</a>
+
+</nav>
+</header>
+  <main>
+
+<h1>Project Diani at Code Overflow22(BIG W)</h1>
+<p>
+  <i>
+    <time datetime='2022-04-19' pubdate>
+      19 Apr, 2022
+    </time>
+  </i>
+</p>
+
+<content>
+  <p>Project Diani was a 24 hour hackathon project based off of Arduino, which was written in C++ where my main job was creating the documentation and the website for it. The team was composed off our lead C++ dev, Sahib, along with Batuhuan as C++ assist, and Dorian our overall designer, and me as our front end.</p>
+<h1 id="900-am">9:00 AM</h1>
+<p>We arrive at 9 AM and enter. The opening talk starts at 10. I meet Dorian for the first time, we met originally as discord friends on the NYCHS server. We chat and Sahib manages to slip in and sits behind us without noticing.</p>
+<h1 id="1000-am">10:00 AM</h1>
+<p>The organizers start talking. I don&rsquo;t remember what they said.</p>
+<h1 id="1100-am">11:00 AM</h1>
+<p>Hacking starts. We come up with a list of ideas, and I set the deadline of 12:00PM to start working.</p>
+<h1 id="1200pm">12:00PM</h1>
+<p>We can&rsquo;t decide on a realistic idea, we have a bad password generator, alcohol simulator, and making stack overflow but different.</p>
+<h1 id="130pm">1:30PM</h1>
+<p>We attend a talk about web dev or something.</p>
+<h1 id="200pm">2:00PM</h1>
+<p>I bring up a past idea about arduino I thought about during MegaHack where I didn&rsquo;t end up submitting anything because we drained our energy arguing about what to make.</p>
+<h1 id="230pm">2:30PM</h1>
+<p>I get the team to agree.</p>
+<h1 id="300pm">3:00PM</h1>
+<p>We get started and we are very inefficent since only one of us knows C++ and we are only building on arduino based product.</p>
+<h1 id="900pm">9:00PM</h1>
+<p>We finish the MVP, a dyslexia diagnosing aid, which resembles the vibe of simon says.</p>
+<h1 id="after-900pm">After 9:00PM</h1>
+<p>We more or less stop working on the project itself and instead on the devpost and documentation website.</p>
+<h1 id="600am">6:00AM</h1>
+<p>We make some changes to the delay time on the arduino and finish up the devpost</p>
+<h1 id="700am">7:00AM</h1>
+<p>We eat crappy breakfast.</p>
+<h1 id="800am">8:00AM</h1>
+<p>We more or less finish and stop doing anything</p>
+<h1 id="1030am">10:30AM</h1>
+<p>Submiting happens.</p>
+<h1 id="1130am">11:30AM</h1>
+<p>We talk to the judges about our project.</p>
+<h1 id="1230pm">12:30PM</h1>
+<p>We eat lunch.</p>
+<h1 id="200pm-1">2:00PM</h1>
+<p>We present and win first place.</p>
+<h1 id="lessons-learned-for-any-hackathoner">Lessons Learned for any hackathoner!</h1>
+<p>Don&rsquo;t attempt to learn or try too many new things at once for your MVP(Minimal Viable Product). It&rsquo;s better to finish early and focus on having a great presentation and fun. If you have time after that then feel free to work on adding interesting features or integrations.
+Don&rsquo;t build a project that takes more that a third to a half of your allowed programming time.
+No matter what, make something that has impact and that can be tried by the audience.
+If you reinvent the wheel, make sure you can do it in a day and better(not just different).
+If you don&rsquo;t reinvent the wheel(original), its ok to make something not off as high quality.
+Aim to come up with an idea fast, allot just an hour, you probably will need longer but just pretend you only have an hour.
+Most importantly, remember all these rules can be broken, it&rsquo;s up to you and what you want to do at the hackathon. Have fun!</p>
+
+</content>
+<p>
+  
+  <a href="/blog/blog/">#blog</a>
+  
+  <a href="/blog/first/">#first</a>
+  
+  <a href="/blog/win/">#Win</a>
+  
+  <a href="/blog/hackathon/">#Hackathon</a>
+  
+</p>
+
+  </main>
+  <footer>Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>
+</footer>
+
+    
+</body>
+
+</html>
